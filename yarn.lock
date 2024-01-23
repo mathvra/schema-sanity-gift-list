@@ -1779,6 +1779,11 @@
     split2 "^3.2.2"
     tar-fs "^2.1.1"
 
+"@sanity/locale-pt-br@^1.0.3":
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/@sanity/locale-pt-br/-/locale-pt-br-1.0.3.tgz#b5b4b776d4afd257b58acff58c73db56122d65ee"
+  integrity sha512-WO6OWxiTjX36cHs0o/S8BD6MZBexooFsp13WWzzRakx/Wsu6A9EWHLdc533nkCtBufoJz6P2Xq70/OyyFoyj6A==
+
 "@sanity/logos@^2.0.2":
   version "2.1.4"
   resolved "https://registry.yarnpkg.com/@sanity/logos/-/logos-2.1.4.tgz#3548db4dfe204ff5e3d6b29e79c889434c745aff"
