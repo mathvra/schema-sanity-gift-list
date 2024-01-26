@@ -27,6 +27,7 @@ export default defineType({
       name: 'isAssigned',
       type: 'boolean',
       title: 'Produto assinado',
+      initialValue: false,
     }),
     defineField({
       name: 'assignedName',
@@ -39,7 +40,4 @@ export default defineType({
       title: 'Telefone de quem assinou',
     }),
   ],
-  initialValue: {
-    isAssigned: false,
-  },
 })
